@@ -6,6 +6,6 @@ const (
 	DefaultVersion = "1.41"
 
 	// NoBaseImageSpecifier is the symbol used by the FROM
-	// command to specify that no base image is to be used.
+	// command to specify that no bthis is my modification ase image is to be used.
 	NoBaseImageSpecifier = "scratch"
 )
